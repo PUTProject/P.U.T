@@ -1,3 +1,3 @@
-# P.u.T
+# P.U.T.
 https://putproject.github.io/P.u.t./
 
